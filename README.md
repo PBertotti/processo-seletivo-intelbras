@@ -13,9 +13,9 @@
 
 <p>Para calcular o consumo de combustível por tonelada, você deve seguir as seguintes etapas:    
 
-<p>Para cada caminhão, calcular o peso médio transportado por km, considerando a carga máxima que o caminhão pode transportar e a distância média percorrida pela frota de caminhões. Para isso, você deve considerar que o peso médio transportado por km varia de acordo com a capacidade de carga de cada caminhão e a distância média percorrida pelo veículo. Por exemplo, se o veículo percorreu 1000km e um caminhão pode transportar até 10 toneladas de carga máxima, o peso médio transportado por km será de 10 / (1000 * 0,001) = 5 kg por km.  
+<p>Para cada caminhão, calcular o peso médio transportado por km, considerando a carga máxima que o caminhão pode transportar e a distância média percorrida pela frota de caminhões. Para isso, você deve considerar que o peso médio transportado por km varia de acordo com a capacidade de carga de cada caminhão e a distância média percorrida pelo veículo. Por exemplo, se o veículo percorreu 1000km e um caminhão pode transportar até 10 toneladas de carga máxima, o peso médio transportado por km será de 10 / (1000 * 0,001) = 10 kg por km.  
 
-<p>Para cada caminhão, calcular o consumo médio de combustível por tonelada transportada por km, dividindo o consumo de combustível por km pelo peso médio transportado por km. Por exemplo, se o consumo de combustível por km for de 1,75 litros e o peso médio transportado por km for de 5 kg, o consumo médio de combustível por tonelada transportada por km será de (1,75 * 1000) / (5 * 1000) = 0,35 litros por tonelada por km.  
+<p>Para cada caminhão, calcular o consumo médio de combustível por tonelada transportada por km, dividindo o consumo de combustível por km pelo peso médio transportado por km. Por exemplo, se o consumo de combustível por km for de 1,75 litros e o peso médio transportado por km for de 10 kg, o consumo médio de combustível por tonelada transportada por km será de (1,75 * 1000) / (10 * 1000) = 0,175 litros por tonelada por km.  
 
 <h2>Resultado esperado:</h2>
  
