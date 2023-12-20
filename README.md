@@ -30,7 +30,8 @@ Bônus: A aplicação apresenta uma lista com histórico dos últimos cálculos 
 1. A aplicação deverá ser desenvolvida utilizando ReactJS;  
 2. Deve ser utilizada a biblioteca MaterialUI 5(https://mui.com/) para a estilização dos componentes;  
 3. Deve ser utilizada a biblioteca Formik(https://formik.org/) para o formulário da aplicação.  
-4. A aplicação deverá seguir o Brandbook da Intelbras: https://brandbook.intelbras.com/a-marca/  
-5. O projeto deverá ser registrado em seu Github até o dia 22/10 às 19:00h e enviado para o e-mail: paulo.cora@intelbras.com.br 
+4. A aplicação deverá seguir o Brandbook da Intelbras: https://brandbook.intelbras.com/a-marca/
+5. Não deverão ser utilizadas bibliotecas de renderização em servidor(NextJS e similares).
+6. O projeto deverá ser registrado em seu Github até o dia 22/10 às 19:00h e enviado para o e-mail: paulo.cora@intelbras.com.br 
 
 ---
