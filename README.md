@@ -32,6 +32,6 @@ Bônus: A aplicação apresenta uma lista com histórico dos últimos cálculos 
 3. Deve ser utilizada a biblioteca Formik(https://formik.org/) para o formulário da aplicação.  
 4. A aplicação deverá seguir o Brandbook da Intelbras: https://brandbook.intelbras.com/a-marca/
 5. Não deverão ser utilizadas bibliotecas de renderização em servidor(NextJS e similares).
-6. O projeto deverá ser registrado em seu Github até o dia 22/10 às 19:00h e enviado para o e-mail: paulo.cora@intelbras.com.br 
+6. O projeto deverá ser registrado em seu Github até o dia 09/02 às 19:00h e enviado para o e-mail: paulo.cora@intelbras.com.br 
 
 ---
